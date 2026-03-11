@@ -4,7 +4,7 @@ import delivery.impl.Transport;
 import packaging.impl.Box;
 import packaging.impl.Label;
 import packaging.impl.PackagingFactory;
-import Logger.ShipmentLogger;
+import logger.ShipmentLogger;
 
 /**
  * @author Le Tran Gia Huy

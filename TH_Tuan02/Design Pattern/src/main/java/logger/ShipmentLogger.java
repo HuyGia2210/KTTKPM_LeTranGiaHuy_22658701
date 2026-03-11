@@ -1,4 +1,4 @@
-package Logger;
+package logger;
 
 /**
  * @author Le Tran Gia Huy
@@ -9,7 +9,7 @@ package Logger;
 
 public class ShipmentLogger {
     private ShipmentLogger() {
-        System.out.println(">>> [SYSTEM] Initializing Shipment Logger...");
+        System.out.println(">>> [SYSTEM] Initializing Shipment logger...");
     }
 
     // Lớp inner static để giữ instance

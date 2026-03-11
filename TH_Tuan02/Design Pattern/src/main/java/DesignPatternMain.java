@@ -1,4 +1,4 @@
-import Logger.ShipmentLogger;
+import logger.ShipmentLogger;
 import delivery.DeliveryManager;
 import delivery.LocalDeliveryManager;
 import delivery.ProvincialDeliveryManager;
